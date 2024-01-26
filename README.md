@@ -20,14 +20,6 @@ SharedBlazorApp showcases the seamless integration of a Blazor WebAssembly compo
 - **WpfApp:** WPF application for Microsoft MAUI that utilizes the Blazor component.
 - **SharedBlazorApp.sln:** Main solution file connecting Blazor and WPF projects.
 
-## Project Structure
-
-# SharedBlazorApp
-|-- BlazorApp/
-|-- WpfApp/
-|-- SharedBlazorApp.sln
-
-
 ## Getting Started
 
 To run the project locally on your machine, follow these steps:
