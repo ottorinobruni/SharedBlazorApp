@@ -1,6 +1,7 @@
 # SharedBlazorApp
 
-This repository contains the source code for the SharedBlazorApp project. The goal of this project is to demonstrate the integration of a Blazor WebAssembly component into a WPF application for Microsoft MAUI.
+This repository contains the source code for the SharedBlazorApp project. The goal of this project is to demonstrate the integration of a Blazor WebAssembly component into a WPF application. 
+The solution showcases the ability to display a Blazor component within a Windows application, highlighting the synergy between Blazor and WPF.
 
 ## Contents
 - [Project Description](#project-description)
@@ -17,7 +18,7 @@ SharedBlazorApp showcases the seamless integration of a Blazor WebAssembly compo
 ## How to Use
 
 - **BlazorApp:** Blazor WebAssembly project containing the shared component.
-- **WpfApp:** WPF application for Microsoft MAUI that utilizes the Blazor component.
+- **WpfApp:** WPF application that utilizes the Blazor component.
 - **SharedBlazorApp.sln:** Main solution file connecting Blazor and WPF projects.
 
 ## Getting Started
